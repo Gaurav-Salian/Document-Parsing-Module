@@ -1,0 +1,19 @@
+{
+  "fileType": "docx",
+  "fileName": "mdcrt.docx",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "text": "Some Text From the Document",
+      "tables": [],
+      "metadata": {
+        "extractionMethod": "mammoth",
+        "confidence": 0.95
+      }
+    }
+  ],
+  "metadata": {
+    "totalPages": 1,
+    "hasImages": false
+  }
+}
