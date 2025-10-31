@@ -4,12 +4,13 @@
     "main": "index.js",
     "type": "commonjs",
     "scripts": {
-      "start": "node index.js"
+        "start": "node index.js"
     },
     "dependencies": {
-      "pdfjs-dist": "3.11.174",
-      "tesseract.js": "^5.1.0",
-      "mammoth": "^1.7.1",
-      "xlsx": "^0.18.5"
+        "canvas": "^3.2.0",
+        "mammoth": "^1.7.1",
+        "pdfjs-dist": "3.11.174",
+        "tesseract.js": "^5.1.0",
+        "xlsx": "^0.18.5"
     }
-  }
+}
