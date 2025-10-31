@@ -1,0 +1,15 @@
+{
+  "name": "document-parser",
+  "version": "1.0.0",
+  "description": "**A robust, extensible Node.js service that converts unstructured documents (PDF, images, DOCX, XLSX, TXT) into structured, machine-readable JSON with text, tables, and rich metadata.**",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
